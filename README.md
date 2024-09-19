@@ -1,24 +1,24 @@
  # Number Row Characters
-<li>~ (Tilde)</li>
-<li>! (Exclemation Point)</li>
-<li>@ ("at" sign)</li>
-<li># (Pound sign)</li>
-<li>$ (Dollar sign)</li>
-<li>% (Percentage sign)</li>
-<li>^ (Caret)</li>
-<li>& (Ampersand)</li>
-<li>* (Asterisk)</li>
-<li>( (Open Parenthesis)</li>
-<li>) (Close Parenthesis)</li>
-<li>_ (Underscore)</li>
-<li>+ (Plus Sign)</li>
+- ~ (Tilde) 
+- ! (Exclemation Point) 
+- @ ("at" sign) 
+- \# (Pound sign) 
+- $ (Dollar sign) 
+- % (Percentage sign)
+- ^ (Caret) 
+- & (Ampersand) 
+- \* (Asterisk)
+- ( (Open Parenthesis)
+- ) (Close Parenthesis) 
+- _ (Underscore) 
+- \+ (Plus Sign) 
 
 # Links
-<li> [Numbers](https://www.youtube.com/watch?v=ATsH2JDkOOM)</li>
-<li> [Shoes](https://www.youtube.com/watch?v=q44kByZmKDs)</li>
-<li> [GitHub](https://www.youtube.com/watch?v=pBy1zgt0XPc)</li>
+- [Numbers](https://www.youtube.com/watch?v=ATsH2JDkOOM)
+- [Shoes](https://www.youtube.com/watch?v=q44kByZmKDs)
+- [GitHub](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
  # Experiments
-<li>👍</li>
-<li>🅃🅁🄸🅂🅃🄰🄽</li>
-<li>T̵̨̢͕͚͉̟͈̟̣̒̾͗̂̃̏r̴̭͚̜̘̫̝̦̓í̵̢̼̰̥̓̀͆̍͗͊̈́̍͘ş̴͇̣̪̠̩̊̏̋̔́͛̋͘͠t̶͉́a̷̩̺̋͗͂͠ñ̵̨̮̫̰͙̩̇͂̈́͌̑͐͜͠</li>
+- 👍
+- 🅃🅁🄸🅂🅃🄰🄽
+- T̵̨̢͕͚͉̟͈̟̣̒̾͗̂̃̏r̴̭͚̜̘̫̝̦̓í̵̢̼̰̥̓̀͆̍͗͊̈́̍͘ş̴͇̣̪̠̩̊̏̋̔́͛̋͘͠t̶͉́a̷̩̺̋͗͂͠ñ̵̨̮̫̰͙̩̇͂̈́͌̑͐͜͠
