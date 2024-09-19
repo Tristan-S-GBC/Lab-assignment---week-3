@@ -1,22 +1,22 @@
  # Number Row Characters
-<li>~ Tilde</li>
-<li>! Exclemation Point</li>
-<li>@ "at" sign</li>
-<li># Pound sign</li>
-<li>$ Dollar sign</li>
-<li>% Percentage sign</li>
-<li>^ Caret</li>
-<li>& Ampersand</li>
-<li>* Asterisk</li>
-<li>( Open Parenthesis</li>
-<li>) Close Parenthesis</li>
-<li>_ Underscore</li>
-<li>+ Plus Sign</li>
+<li>~ (Tilde)</li>
+<li>! (Exclemation Point)</li>
+<li>@ ("at" sign)</li>
+<li># (Pound sign)</li>
+<li>$ (Dollar sign)</li>
+<li>% (Percentage sign)</li>
+<li>^ (Caret)</li>
+<li>& (Ampersand)</li>
+<li>* (Asterisk)</li>
+<li>( (Open Parenthesis)</li>
+<li>) (Close Parenthesis)</li>
+<li>_ (Underscore)</li>
+<li>+ (Plus Sign)</li>
 
 # Links
-<li>[Numbers](https://www.youtube.com/watch?v=ATsH2JDkOOM)</li>
-<li>[Shoes](https://www.youtube.com/watch?v=q44kByZmKDs)</li>
-<li>[GitHub](https://www.youtube.com/watch?v=pBy1zgt0XPc)</li>
+<li> [Numbers](https://www.youtube.com/watch?v=ATsH2JDkOOM)</li>
+<li> [Shoes](https://www.youtube.com/watch?v=q44kByZmKDs)</li>
+<li> [GitHub](https://www.youtube.com/watch?v=pBy1zgt0XPc)</li>
 
  # Experiments
 <li>👍</li>
